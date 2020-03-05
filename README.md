@@ -25,9 +25,9 @@ In this repository, we release the CPM R-CNN code in Pytorch.
 
 |  Backbone  |  LR  | mAP | AP50 | (APs/APm/APl) | DOWNLOAD |
 |------------|:----:|:------:|:----:|:--------------------------:| :-------:|
-|  R-50-FPN  |  2x  | 41.7   | 59.2 |      23.1/44.0/54.7        | None|
-|  R-101-FPN  |  2x  | 43.3   | 61.2 |      23.9/46.3/56.6        | None|
-|  X-101-FPN-DCN |  2x  | 46.4   | 65.3 |      26.8/49.4/61.0        | None|
+|  R-50-FPN  |  2x  | 41.7   | 59.2 |      23.1/44.0/54.7        | [Model](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr)|
+|  R-101-FPN  |  2x  | 43.3   | 61.2 |      23.9/46.3/56.6        | [Model](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr)|
+|  X-101-FPN-DCN |  2x  | 46.4   | 65.3 |      26.8/49.4/61.0        | [Model](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr)|
 
 **Component-wise performance**
 
@@ -42,8 +42,9 @@ In this repository, we release the CPM R-CNN code in Pytorch.
 
 **ImageNet pretrained weight**
 
-- [R-50](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr)
-- [X-101-64x4d](https://drive.google.com/open?id=1c4OSVZIZtDT49B0DTC0tK3vcRgJpzR9n)
+- [R-50](https://drive.google.com/open?id=1_QXYuUbNUrRbsyPeYB9EJdwGp_SBFBrZ)
+- [R-101](https://drive.google.com/open?id=1k1N1wuklAYuBD8DX229ZEMsp8opjDJNE)
+- [X-101-64x4d](https://drive.google.com/open?id=1abiIjSUJXOZzxAX66aYjCSsWXGJp3z05)
 
 
 ## Training
