@@ -1,5 +1,6 @@
 # CPM-R-CNN
 CPM R-CNN: Calibrating Point-guided Misalignment in Object Detection
+<p align="center"><img width="60%" src="data/introduction.png" /></p>
 
 In this repository, we release the CPM R-CNN code in Pytorch.
 
@@ -7,8 +8,8 @@ In this repository, we release the CPM R-CNN code in Pytorch.
 <p align="center"><img width="90%" src="data/pipeline.png" /></p>
 
 - Modules in CPM R-CNN:
-<p align="center"><img width="90%" src="data/cmm.png" /></p>
-<p align="center"><img width="90%" src="data/score.png" /></p>
+<p align="center"><img width="70%" src="data/cmm.png" /></p>
+<p align="center"><img width="70%" src="data/score.png" /></p>
 
 
 ## Installation
