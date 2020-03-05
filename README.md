@@ -25,9 +25,9 @@ In this repository, we release the CPM R-CNN code in Pytorch.
 
 |  Backbone  |  LR  | mAP | AP50 | (APs/APm/APl) | DOWNLOAD |
 |------------|:----:|:------:|:----:|:--------------------------:| :-------:|
-|  R-50-FPN  |  2x  | 41.7   | 59.2 |      23.1/44.0/54.7        | [Model](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr)|
-|  R-101-FPN  |  2x  | 43.3   | 61.2 |      23.9/46.3/56.6        | [Model](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr)|
-|  X-101-FPN-DCN |  2x  | 46.4   | 65.3 |      26.8/49.4/61.0        | [Model](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr)|
+|  R-50-FPN  |  2x  | 41.7   | 59.2 |      23.1/44.0/54.7        | [GoogleDrive](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr)[BaiduPan:a7k0](https://pan.baidu.com/s/1i5Kvbu4PCA6o4ktlx3P57w)|
+|  R-101-FPN  |  2x  | 43.3   | 61.2 |      23.9/46.3/56.6        | [Google](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr) [BaiduPan:mpc8](https://pan.baidu.com/s/1IbfitzvycDrtm0Hh1SDBRw)|
+|  X-101-FPN-DCN |  2x  | 46.4   | 65.3 |      26.8/49.4/61.0        | [Google](https://drive.google.com/open?id=1EtqFhrFTdBJNbp67effArVrTNx4q_ELr) [BaiduPan:enbd](https://pan.baidu.com/s/1YvW4Tb0nrgQADaLlay1tGQ)|
 
 **Component-wise performance**
 
