@@ -1,15 +1,15 @@
 # CPM R-CNN: Calibrating Point-guided Misalignment in Object Detection
 
-Bin Zhu, Qing Song, Lu Yang, Zhihui Wang, Chun Liu, Mengjie Hu
+The official pytorch implementation of CPM R-CNN.
 
-[[`arXiv`](https://arxiv.org/abs/2003.03570)]
+> [**CPM R-CNN: Calibrating Point-guided Misalignment in Object Detection**](https://arxiv.org/abs/2003.03570),            
+> Bin Zhu, Qing Song, Lu Yang, Zhihui Wang, Chun Liu, Mengjie Hu
+> *WACV 2021. ([arXiv pre-print](https://arxiv.org/abs/2003.03570))*
+
 ## Introduction
 In object detection, offset-guided and point-guided regression dominate anchor-based and anchor-free method separately. Recently, point-guided approach is introduced to anchor-based method. However, we observe points predicted by this way are misaligned with matched region of proposals and score of localization, causing a notable gap in performance. In this paper, we propose CPM R-CNN which contains three efficient modules to optimize anchor-based point-guided method. According to sufficient evaluations on the COCO dataset, CPM R-CNN is demonstrated efficient to improve the localization accuracy by calibrating mentioned misalignment. Compared with Faster R-CNN and Grid R-CNN based on ResNet-101 with FPN, our approach can substantially improve detection mAP by 3.3\% and 1.5\% respectively without whistles and bells. Moreover, our best model achieves improvement by a large margin to 49.9\% on COCO test-dev. Code and models will be publicly available.
 
 <p align="center"><img width="60%" src="data/introduction.png" /></p>
->>>>>>> 4ecd9667e80cc11bb8c1f621c3e7b17ec27f5f6c
-
-In this repository, we release the CPM R-CNN code in Pytorch.
 
 - CPM R-CNN pipeline:
 <p align="center"><img width="90%" src="data/pipeline.png" /></p>
